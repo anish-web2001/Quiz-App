@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "title": "What is HTML?",
+        "options": [
+            "HTML is a Markup Language",
+            "HTML is a CSS Language",
+            "HTML is a JS Language",
+            "HTML is a JSON Language"
+        ],
+        "correct_option": 0
+    },
+    {
+        "id": 2,
+        "title": "Which tag is used for inserting an image in HTML?",
+        "options": [
+            "<image>",
+            "<img>",
+            "<src>",
+            "<pic>"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": 3,
+        "title": "Which HTML tag is used to create a hyperlink?",
+        "options": [
+            "<link>",
+            "<href>",
+            "<a>",
+            "<url>"
+        ],
+        "correct_option": 2
+    },
+    {
+        "id": 4,
+        "title": "What does CSS stand for?",
+        "options": [
+            "Creative Style Sheet",
+            "Cascading Style Sheets",
+            "Computer Style Sheets",
+            "Colorful Style Sheet"
+        ],
+        "correct_option": 1
+    },
+    {
+        "id": 5,
+        "title": "Which is the correct way to start an HTML document?",
+        "options": [
+            "<html>",
+            "<!DOCTYPE html>",
+            "<start>",
+            "<begin>"
+        ],
+        "correct_option": 1
+    }
+]
